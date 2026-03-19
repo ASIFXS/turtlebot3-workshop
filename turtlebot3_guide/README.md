@@ -75,4 +75,4 @@ repositories:
 ```
 
 ---
-*Based on [ROS 2 Mobile Robotics Series](https://medium.com/@thehummingbird/ros-2-mobile-robotics-series-part-2-e8dd6116aacb) — updated Galactic → Humble*
+*Based on [ROS 2 TurtleBot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) — updated → Humble*
