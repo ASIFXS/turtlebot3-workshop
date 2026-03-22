@@ -54,7 +54,9 @@ This installs ROS core + RViz2 + demo packages. Takes a few minutes.
 source /opt/ros/humble/setup.bash
 
 # Verify
-ros2 --version
+lsb_release -a
+
+echo $ROS_DISTRO
 # Expected: ros2 cli version X.X.X
 ```
 
