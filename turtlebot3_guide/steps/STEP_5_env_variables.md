@@ -13,7 +13,7 @@
 ## 5.1 — Open Your ~/.bashrc
 
 ```bash
-nano ~/.bashrc
+gedit ~/.bashrc
 ```
 
 Scroll to the very bottom and **replace or add** the TurtleBot3 section.
