@@ -23,7 +23,7 @@ Wait for `Successfully spawned entity [burger]` before continuing.
 
 ---
 
-## 7.3 — Terminal 2: Launch SLAM (Cartographer)
+## 7.3 — Terminal 2: Launch SLAM (slamtoolbox)
 
 Open a **new terminal**:
 
