@@ -8,11 +8,7 @@
 
 ---
 
-## 7.1 — Install Cartographer
 
-```bash
-sudo apt install ros-humble-cartographer ros-humble-cartographer-ros -y
-```
 
 ---
 
@@ -33,7 +29,13 @@ Open a **new terminal**:
 
 ```bash
 source ~/.bashrc
-ros2 launch turtlebot3_cartographer cartographer.launch.py use_sim_time:=True
+ros2 launch slam_toolbox online_async_launch.py
+```
+
+
+```bash
+source ~/.bashrc
+ros2 run turtlebot3_teleop teleop_keyboard
 ```
 
 This opens **RViz2 automatically** with the map display.
